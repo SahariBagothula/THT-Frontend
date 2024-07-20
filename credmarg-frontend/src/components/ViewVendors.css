@@ -1,0 +1,27 @@
+.list-container {
+    background-color: #d7e8e4;
+    width: 60rem;
+    height: auto;
+    margin: 2rem auto;
+    border-radius: 0.7rem;
+    padding: 2rem;
+    font-family: Poppins, sans-serif;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #291c42;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    background-color: #c3dfd8;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
